@@ -1,5 +1,6 @@
 # Ignored Folders
-__pycache__/
+activity_log/activity_log/__pycache__
+activity_log/mylogs/__pycache__
 bin/
 include/
 lib/
